@@ -34,9 +34,21 @@ Before you start, you need to install and configure the tools:
 
 ![Mapbox - Initial page](docs/images/mapbox-step1.png)
 
+**2.** Fill in the fields *Username*, *Email*, *Password*, *First name*, *Last name*, click on the checkbox *I agree to the Mapbox Terms of Service and Privacy Policy.* and click on the button *Get started*.
 
+![Mapbox - Sign up](docs/images/mapbox-step2.png)
 
+**3.** Check the registered email.
 
+![Mapbox - Check email](docs/images/mapbox-step3.png)
+
+**4.** Click on the link in the email sent.
+
+![Mapbox - Confirm email](docs/images/mapbox-step4.png)
+
+**5** Copy the token displayed in the *Dashboard* menu and, in my case, the token was displayed `pk.eyJ1IjoiYnJhc2thbSIsImEiOiJja3NqcXBzbWoyZ3ZvMm5ybzA4N2dzaDR6In0.RUAYJFnNgOnnZAw` because this token will be configured in the Angular application.
+
+**6.** Ready! Account created and token generated.
 
 
 ### Create the Angular application
