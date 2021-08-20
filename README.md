@@ -28,6 +28,17 @@ Before you start, you need to install and configure the tools:
 ## Getting started
 
 
+### Create and configure the account on the Mapbox
+
+**1.** Let's create the account. Access the site [https://www.mapbox.com/](https://www.mapbox.com/) and click on the button *Sign up*.
+
+![Mapbox - Initial page](docs/images/mapbox-step1.png)
+
+
+
+
+
+
 ### Create the Angular application
 
 
