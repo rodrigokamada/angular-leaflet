@@ -48,6 +48,8 @@ Before you start, you need to install and configure the tools:
 
 **5** Copy the token displayed in the *Dashboard* menu and, in my case, the token was displayed `pk.eyJ1IjoiYnJhc2thbSIsImEiOiJja3NqcXBzbWoyZ3ZvMm5ybzA4N2dzaDR6In0.RUAYJFnNgOnnZAw` because this token will be configured in the Angular application.
 
+![Mapbox - Dashboard](docs/images/mapbox-step5.png)
+
 **6.** Ready! Account created and token generated.
 
 
