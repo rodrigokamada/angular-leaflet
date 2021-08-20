@@ -1,0 +1,26 @@
+notifications:
+  email:
+    recipients:
+      - rodrigo@kamada.com.br
+
+language: node_js
+
+node_js:
+  - 16
+
+before_script:
+  - npm install
+
+script:
+  - npm run test:headless
+
+before_deploy:
+  - npm run build:prod
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: dist/angular-leaflet
+  on:
+    branch: master
