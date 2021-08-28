@@ -91,11 +91,11 @@ CREATE angular-internationalization/src/app/app.component.ts (233 bytes)
 ✔ Packages installed successfully.
 ```
 
-**2.** Install and configure the Bootstrap CSS framework. Do steps 2 and 3 of the post *[Adding the Bootstrap CSS framework to an Angular application](https://dev.to/rodrigokamada/adding-the-bootstrap-css-framework-to-an-angular-application-2k40)*.
+**2.** Install and configure the Bootstrap CSS framework. Do steps 2 and 3 of the post *[Adding the Bootstrap CSS framework to an Angular application](https://github.com/rodrigokamada/angular-bootstrap)*.
 
 **3.** Configure the Mapbox token in the `src/environments/environment.ts` and `src/environments/environment.prod.ts` files as below.
 
-```json
+```typescript
 mapbox: {
   accessToken: 'pk.eyJ1IjoiYnJhc2thbSIsImEiOiJja3NqcXBzbWoyZ3ZvMm5ybzA4N2dzaDR6In0.RUAYJFnNgOnn80wXkrV9ZA',
 },
