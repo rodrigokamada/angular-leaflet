@@ -33,23 +33,23 @@ Before you start, you need to install and configure the tools:
 
 **1.** Let's create the account. Access the site [https://www.mapbox.com/](https://www.mapbox.com/) and click on the button *Sign up*.
 
-![Mapbox - Home page](docs/images/mapbox-step1.png)
+![Mapbox - Home page](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580196/Blog/angular-leaflet/mapbox-step1.png)
 
 **2.** Fill in the fields *Username*, *Email*, *Password*, *First name*, *Last name*, click on the checkbox *I agree to the Mapbox Terms of Service and Privacy Policy.* and click on the button *Get started*.
 
-![Mapbox - Sign up](docs/images/mapbox-step2.png)
+![Mapbox - Sign up](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580197/Blog/angular-leaflet/mapbox-step2.png)
 
 **3.** Check the registered email.
 
-![Mapbox - Check email](docs/images/mapbox-step3.png)
+![Mapbox - Check email](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580197/Blog/angular-leaflet/mapbox-step3.png)
 
 **4.** Click on the link in the email sent.
 
-![Mapbox - Confirm email](docs/images/mapbox-step4.png)
+![Mapbox - Confirm email](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580197/Blog/angular-leaflet/mapbox-step4.png)
 
 **5.** Copy the token displayed in the *Dashboard* menu and, in my case, the token was displayed `pk.eyJ1IjoiYnJhc2thbSIsImEiOiJja3NqcXBzbWoyZ3ZvMm5ybzA4N2dzaDR6In0.RUAYJFnNgOnnZAw` because this token will be configured in the Angular application.
 
-![Mapbox - Dashboard](docs/images/mapbox-step5.png)
+![Mapbox - Dashboard](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580197/Blog/angular-leaflet/mapbox-step5.png)
 
 **6.** Ready! Account created and token generated.
 
@@ -243,7 +243,7 @@ Build at: 2021-08-20T10:40:47.188Z - Hash: 030dfe6c9ea7ff5d80c2 - Time: 12256ms
 
 **11.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-leaflet/) and [Stackblitz](https://stackblitz.com/edit/angular12-leaflet).
 
-![Angular Leaflet](docs/images/angular-leaflet.png)
+![Angular Leaflet](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580179/Blog/angular-leaflet/angular-leaflet.png)
 
 
 
