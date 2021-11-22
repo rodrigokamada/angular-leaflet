@@ -59,7 +59,7 @@ Before you start, you need to install and configure the tools:
 
 **1.** Let's create the application with the Angular base structure using the `@angular/cli` with the route file and the SCSS style format.
 
-```shell
+```powershell
 ng new angular-internationalization
 ? Would you like to add Angular routing? Yes
 ? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]
@@ -108,7 +108,7 @@ mapbox: {
 
 **5.** Install the `leaflet` and `@types/leaflet` libraries.
 
-```shell
+```powershell
 npm install leaflet @types/leaflet
 ```
 
@@ -215,7 +215,7 @@ export class AppComponent implements AfterViewInit {
 
 **10.** Run the application with the command below.
 
-```shell
+```powershell
 npm start
 
 > angular-leaflet@1.0.0 start
@@ -251,18 +251,18 @@ Build at: 2021-08-20T10:40:47.188Z - Hash: 030dfe6c9ea7ff5d80c2 - Time: 12256ms
 
 **1.** Clone the repository.
 
-```shell
+```powershell
 git clone git@github.com:rodrigokamada/angular-leaflet.git
 ```
 
 **2.** Install the dependencies.
 
-```shell
+```powershell
 npm ci
 ```
 
 **3.** Run the application.
 
-```shell
+```powershell
 npm start
 ```
