@@ -7,9 +7,9 @@ This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicion
 
 
 
-[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small)](https://rodrigo.kamada.com.br)
-[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small)](https://www.linkedin.com/in/rodrigokamada)
-[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
+[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small&radius=5)](https://rodrigo.kamada.com.br)
+[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://www.linkedin.com/in/rodrigokamada)
+[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&radius=5&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
 
 
 
@@ -103,8 +103,8 @@ mapbox: {
 
 **4.** Create the `src/assets/images` folder and copy the `marker-icon.png` and `marker-shadow.png` files.
 
-![Marker Icon](src/assets/images/marker-icon.png)
-![Marker Shadow](src/assets/images/marker-shadow.png)
+![Marker Icon](https://res.cloudinary.com/rodrigokamada/image/upload/v1637581626/Blog/angular-leaflet/marker-icon.png)
+![Marker Shadow](https://res.cloudinary.com/rodrigokamada/image/upload/v1637581626/Blog/angular-leaflet/marker-shadow.png)
 
 **5.** Install the `leaflet` and `@types/leaflet` libraries.
 
