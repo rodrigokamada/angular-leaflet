@@ -1,7 +1,7 @@
 # Angular Leaflet
 
 
-Application example built with [Angular 13](https://angular.io/) and adding the map Leaflet component using the [leaflet](https://www.npmjs.com/package/leaflet) library.
+Application example built with [Angular](https://angular.io/) 13 and adding the map Leaflet component using the [leaflet](https://www.npmjs.com/package/leaflet) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-mapa-leaflet-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-map-leaflet-component-to-an-angular-application-d13) in english.
 
@@ -241,7 +241,7 @@ Build at: 2021-08-20T10:40:47.188Z - Hash: 030dfe6c9ea7ff5d80c2 - Time: 12256ms
 ✔ Compiled successfully.
 ```
 
-**11.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-leaflet/) and [Stackblitz](https://stackblitz.com/edit/angular12-leaflet).
+**11.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-leaflet/) and [Stackblitz](https://stackblitz.com/edit/angular13-leaflet).
 
 ![Angular Leaflet](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580179/Blog/angular-leaflet/angular-leaflet.png)
 
