@@ -60,35 +60,36 @@ Before you start, you need to install and configure the tools:
 **1.** Let's create the application with the Angular base structure using the `@angular/cli` with the route file and the SCSS style format.
 
 ```powershell
-ng new angular-internationalization
+ng new angular-leaflet
 ? Would you like to add Angular routing? Yes
 ? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]
-CREATE angular-internationalization/README.md (1073 bytes)
-CREATE angular-internationalization/.editorconfig (274 bytes)
-CREATE angular-internationalization/.gitignore (604 bytes)
-CREATE angular-internationalization/angular.json (3339 bytes)
-CREATE angular-internationalization/package.json (1090 bytes)
-CREATE angular-internationalization/tsconfig.json (783 bytes)
-CREATE angular-internationalization/.browserslistrc (703 bytes)
-CREATE angular-internationalization/karma.conf.js (1445 bytes)
-CREATE angular-internationalization/tsconfig.app.json (287 bytes)
-CREATE angular-internationalization/tsconfig.spec.json (333 bytes)
-CREATE angular-internationalization/src/favicon.ico (948 bytes)
-CREATE angular-internationalization/src/index.html (313 bytes)
-CREATE angular-internationalization/src/main.ts (372 bytes)
-CREATE angular-internationalization/src/polyfills.ts (2820 bytes)
-CREATE angular-internationalization/src/styles.scss (80 bytes)
-CREATE angular-internationalization/src/test.ts (788 bytes)
-CREATE angular-internationalization/src/assets/.gitkeep (0 bytes)
-CREATE angular-internationalization/src/environments/environment.prod.ts (51 bytes)
-CREATE angular-internationalization/src/environments/environment.ts (658 bytes)
-CREATE angular-internationalization/src/app/app-routing.module.ts (245 bytes)
-CREATE angular-internationalization/src/app/app.module.ts (393 bytes)
-CREATE angular-internationalization/src/app/app.component.scss (0 bytes)
-CREATE angular-internationalization/src/app/app.component.html (24617 bytes)
-CREATE angular-internationalization/src/app/app.component.spec.ts (1139 bytes)
-CREATE angular-internationalization/src/app/app.component.ts (233 bytes)
+CREATE angular-leaflet/README.md (1073 bytes)
+CREATE angular-leaflet/.editorconfig (274 bytes)
+CREATE angular-leaflet/.gitignore (604 bytes)
+CREATE angular-leaflet/angular.json (3339 bytes)
+CREATE angular-leaflet/package.json (1090 bytes)
+CREATE angular-leaflet/tsconfig.json (783 bytes)
+CREATE angular-leaflet/.browserslistrc (703 bytes)
+CREATE angular-leaflet/karma.conf.js (1445 bytes)
+CREATE angular-leaflet/tsconfig.app.json (287 bytes)
+CREATE angular-leaflet/tsconfig.spec.json (333 bytes)
+CREATE angular-leaflet/src/favicon.ico (948 bytes)
+CREATE angular-leaflet/src/index.html (313 bytes)
+CREATE angular-leaflet/src/main.ts (372 bytes)
+CREATE angular-leaflet/src/polyfills.ts (2820 bytes)
+CREATE angular-leaflet/src/styles.scss (80 bytes)
+CREATE angular-leaflet/src/test.ts (788 bytes)
+CREATE angular-leaflet/src/assets/.gitkeep (0 bytes)
+CREATE angular-leaflet/src/environments/environment.prod.ts (51 bytes)
+CREATE angular-leaflet/src/environments/environment.ts (658 bytes)
+CREATE angular-leaflet/src/app/app-routing.module.ts (245 bytes)
+CREATE angular-leaflet/src/app/app.module.ts (393 bytes)
+CREATE angular-leaflet/src/app/app.component.scss (0 bytes)
+CREATE angular-leaflet/src/app/app.component.html (24617 bytes)
+CREATE angular-leaflet/src/app/app.component.spec.ts (1139 bytes)
+CREATE angular-leaflet/src/app/app.component.ts (233 bytes)
 ✔ Packages installed successfully.
+    Successfully initialized git.
 ```
 
 **2.** Install and configure the Bootstrap CSS framework. Do steps 2 and 3 of the post *[Adding the Bootstrap CSS framework to an Angular application](https://github.com/rodrigokamada/angular-bootstrap)*.
