@@ -21,7 +21,7 @@ Before you start, you need to install and configure the tools:
 * [git](https://git-scm.com/)
 * [Node.js and npm](https://nodejs.org/)
 * [Angular CLI](https://angular.io/cli)
-* IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/))
+* IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/))
 
 
 
