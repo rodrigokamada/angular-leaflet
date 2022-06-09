@@ -1,7 +1,7 @@
 # Angular Leaflet
 
 
-Application example built with [Angular](https://angular.io/) 13 and adding the map Leaflet component using the [leaflet](https://www.npmjs.com/package/leaflet) library.
+Application example built with [Angular](https://angular.io/) 14 and adding the map Leaflet component using the [leaflet](https://www.npmjs.com/package/leaflet) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-mapa-leaflet-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-map-leaflet-component-to-an-angular-application-d13) in english.
 
