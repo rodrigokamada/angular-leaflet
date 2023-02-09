@@ -1,7 +1,7 @@
 {
   "name": "angular-leaflet",
   "version": "1.0.0",
-  "description": "Application example built with Angular 14 and adding the map component using the leaflet library.",
+  "description": "Application example built with Angular 15 and adding the map component using the leaflet library.",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
   "private": true,
