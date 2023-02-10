@@ -243,7 +243,7 @@ Build at: 2021-08-20T10:40:47.188Z - Hash: 030dfe6c9ea7ff5d80c2 - Time: 12256ms
 ✔ Compiled successfully.
 ```
 
-**11.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-leaflet/) and [Stackblitz](https://stackblitz.com/edit/angular14-leaflet).
+**11.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-leaflet/) and [Stackblitz](https://stackblitz.com/edit/angular15-leaflet).
 
 ![Angular Leaflet](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580179/Blog/angular-leaflet/angular-leaflet.png)
 
